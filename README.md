@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visits Badge](https://badges.strrl.dev/years/nanorithm) ![](https://badges.strrl.dev/repos/nanorithm) ![](https://badges.strrl.dev/commits/all/nanorithm) ![](https://badges.strrl.dev/prs/all/nanorithm) ![](https://badges.strrl.dev/issues/all/nanorithm)
+![Visits Badge](https://badges.strrl.dev/years/nanorithm) ![](https://badges.strrl.dev/repos/nanorithm) ![](https://badges.strrl.dev/commits/all/nanorithm) ![](https://badges.strrl.dev/prs/all/nanorithm) ![](https://badges.strrl.dev/issues/all/nanorithm) ![](https://komarev.com/ghpvc/?username=nanorithm)
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nanorithm&section=header&desc=Developer%20//%20Designer&textBg=false)
 
